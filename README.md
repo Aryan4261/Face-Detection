@@ -1,4 +1,5 @@
-# Face-Detection
+# Face-Detection -
+
 Project Information
 The project uses opencv module and haarcascades file to detect faces in the images.
 
